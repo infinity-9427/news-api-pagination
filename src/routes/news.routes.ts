@@ -1,5 +1,5 @@
 import express from 'express';
-import { searchEverything } from '../controllers/newsController';
+import { searchEverything } from '../controllers/newsController.js';
 
 const newsRouter = express.Router();
 

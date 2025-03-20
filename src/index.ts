@@ -1,4 +1,4 @@
-import newsRouter from "./routes/news.routes";
+import newsRouter from "./routes/news.routes.js";
 import { createApp } from "./app.js";
 
 
