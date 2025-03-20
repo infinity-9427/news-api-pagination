@@ -3,7 +3,7 @@
     "module": "es2022",
     "moduleResolution": "node",
     "baseUrl": "src",
-    "outDir": "./dist",
+    "outDir": "./src/dist",
     "rootDir": "./src",
     "noImplicitAny": true,
     "sourceMap": true,
